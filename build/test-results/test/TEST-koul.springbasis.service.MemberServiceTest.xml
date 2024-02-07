@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="koul.springbasis.service.MemberServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-02-04T10:31:29" hostname="Dongikui-MacBookAir.local" time="0.015">
+<testsuite name="koul.springbasis.service.MemberServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-02-04T12:32:14" hostname="Dongikui-MacBookAir.local" time="0.013">
   <properties/>
-  <testcase name="중복_회원_예외()" classname="koul.springbasis.service.MemberServiceTest" time="0.015"/>
+  <testcase name="중복_회원_예외()" classname="koul.springbasis.service.MemberServiceTest" time="0.013"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
